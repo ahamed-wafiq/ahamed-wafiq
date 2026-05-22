@@ -27,9 +27,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahamed-wafiq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahamed-wafiq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed-wafiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed-wafiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -37,10 +37,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahamed-wafiq&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=ahamed-wafiq&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
----
 
 ## 🧠 Currently Working On
 
