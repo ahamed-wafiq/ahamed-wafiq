@@ -22,17 +22,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,js,ts,python,git,github,vscode,docker,aws,firebase" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahamed-wafiq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed-wafiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -77,7 +67,7 @@ Automated scheduling & timetable management application.
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ahamed-wafiq-30631a32b">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
@@ -88,14 +78,3 @@ Automated scheduling & timetable management application.
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ahamed-wafiq/ahamed-wafiq/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahamed-wafiq&label=Profile%20Views&color=8A8FFF&style=for-the-badge" />
-</p>
