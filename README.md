@@ -19,16 +19,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,js,ts,python,git,github,vscode,docker,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,js,ts,python,git,github,vscode" />
 </p>
 
 
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahamed-wafiq&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
 
 
 ## 🧠 Currently Working On
