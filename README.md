@@ -66,7 +66,7 @@ Automated scheduling & timetable management application.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ahamedwafiq51@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
